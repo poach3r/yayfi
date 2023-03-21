@@ -5,4 +5,4 @@
     -i\
     -no-fixed-num-lines\
     -p "Password:"\
-    -theme ~/.config/rofi/rofi.rasi
+#    -theme ~/.config/rofi/rofi.rasi
