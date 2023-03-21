@@ -14,6 +14,7 @@ package-query
 ```
 git clone https://github.com/poach3r/yayfi
 chmod +x -R ~/yayfi
+mv ~/yayfi/* ~/.config/rofi
 ```
 ## Configuration:
 
