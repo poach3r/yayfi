@@ -1,9 +1,9 @@
 # yayfi
 A rofi script to install or uninstall packages with yay.
 
--------
+![mithfetch](/yayfi.png)
 
-## Dependancies:
+## Dependencies:
 
 rofi
 yay
